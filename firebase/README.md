@@ -1,1 +1,0 @@
-Este repo contrandra distintos tipos de uso de firebase, con diversos lenguajes.
